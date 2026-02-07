@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://product.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: ___
 
 ## How can I edit this code?
 
